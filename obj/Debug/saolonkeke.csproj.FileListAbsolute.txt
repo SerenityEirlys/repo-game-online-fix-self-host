@@ -1,0 +1,12 @@
+C:\Users\Admins\Downloads\slkekke\saolonkeke\obj\Debug\saolonkeke.csproj.AssemblyReference.cache
+C:\Users\Admins\Downloads\slkekke\saolonkeke\obj\Debug\saolonkeke.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Downloads\slkekke\saolonkeke\bin\Debug\patch.dll
+C:\Users\Admins\Downloads\slkekke\saolonkeke\bin\Debug\patch.pdb
+C:\Users\Admins\Downloads\slkekke\saolonkeke\bin\Debug\0Harmony.dll
+C:\Users\Admins\Downloads\slkekke\saolonkeke\bin\Debug\INIFileParser.dll
+C:\Users\Admins\Downloads\slkekke\saolonkeke\bin\Debug\0Harmony.pdb
+C:\Users\Admins\Downloads\slkekke\saolonkeke\bin\Debug\0Harmony.xml
+C:\Users\Admins\Downloads\slkekke\saolonkeke\bin\Debug\INIFileParser.xml
+C:\Users\Admins\Downloads\slkekke\saolonkeke\obj\Debug\saolonkeke.csproj.Up2Date
+C:\Users\Admins\Downloads\slkekke\saolonkeke\obj\Debug\patch.dll
+C:\Users\Admins\Downloads\slkekke\saolonkeke\obj\Debug\patch.pdb
